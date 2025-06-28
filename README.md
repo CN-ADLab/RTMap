@@ -14,4 +14,4 @@ While recent online HD mapping methods relieve burdened offline pipelines and so
 
 We respect to our past and present colleagues for their unwavering dedication to pursuing innovative lighter-map solutions, whose contributions have profoundly bring-up this work. 
 
-We gratefully acknowledge the developers of the following open-source projects and datasets, whose foundational tools enabled our research: [MapTR/MapTRv2](https://github.com/hustvl/MapTR), [TbV](https://github.com/johnwlambert/tbv), [MapUncertaintyPrediction](https://github.com/alfredgu001324/MapUncertaintyPrediction) among others.
+We gratefully acknowledge the developers of the following open-source projects and datasets, whose foundational tools enabled our research: [MapTR/MapTRv2](https://github.com/hustvl/MapTR), [TbV](https://github.com/johnwlambert/tbv), [MapUncertaintyPrediction](https://github.com/alfredgu001324/MapUncertaintyPrediction), among others.
