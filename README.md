@@ -12,7 +12,8 @@ While recent online HD mapping methods relieve burdened offline pipelines and so
 
 ## Incoming
 - [ ] Inference Demo
-- [ ] Relabeled TbV val set
+- [ ] Relabeled TbV val split
+- [ ] TbV train/sythetic val split with perturbed prior-map
 
 ## Getting Started
 
