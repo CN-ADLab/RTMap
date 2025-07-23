@@ -10,6 +10,15 @@ While recent online HD mapping methods relieve burdened offline pipelines and so
 
 <p align="center"> <a><img src="figs/teaser.png" width="90%"></a> </p>
 
+## Incoming
+- [ ] Inference Demo
+- [ ] Relabeled TbV val set
+
+## Getting Started
+
+## Qualitative results on TbV Synthetic Val Split
+<p align="center"> <a><img src="figs/qualitative_results.pdf" width="90%"></a> </p>
+
 ## Acknowledgement
 
 We respect to our past and present colleagues for their unwavering dedication to pursuing innovative lighter-map solutions, whose contributions have profoundly bring-up this work. 
